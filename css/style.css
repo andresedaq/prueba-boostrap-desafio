@@ -1,0 +1,29 @@
+.colorFondo{
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: blueviolet;
+    color: white;
+}
+
+.logoLetra{
+    font-size: 2.2rem;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: blueviolet;
+}
+
+.carousel-inner {
+    max-height: 39rem;
+}
+
+.footer{
+    display: flex;
+    background-color: blueviolet;
+}
+
+.footer p {
+    color: white;
+    border: 2px solid white;
+    margin: 9px;
+    padding: 4px;
+}
